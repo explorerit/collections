@@ -1,0 +1,3 @@
+# collections
+aaa
+collect resources
